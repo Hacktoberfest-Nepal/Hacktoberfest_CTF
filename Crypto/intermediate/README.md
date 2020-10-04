@@ -1,5 +1,9 @@
-# Unprintable
 
-`M​​​​‏​‏​​​​‎‏‍​​​​‎‏‏​​​​‏‌‍​​​​‏‎‌​​​​‏‍‌​​​​‎‏‎​​​​‏​‌​​​​‏‍‏​​​​‏​‍​​​​‏​‌​​​​‏‎​​​​​‏‎‌​​​​‎‏​​​​​‎‏‏​​​​‏‎‌​​​​‏​‍​​​​‏‏‎​​​​‏‏‍​​​​‏‎‏​​​​‏‎​​​​​‏‍‍​​​​‎‏​​​​​‌‏‏​​​​‏‎​​​​​‎‏​​​​​‌‏‏​​​​‏‍​​​​​‏‎‎​​​​‌‏‏​​​​‏‎​​​​​‌‏‏​​​​‎‏‎​​​​‏‌‎​​​​‍​‌​​​‌​​​aybe I can't be printed.`
+# Intermediate Cryptography Challenges
 
-> Hints: Just some unicode characters!
+## Make sure to submit your write-ups along with the solutions!
+
+| Challenges | Challenge Page |
+|--|--|
+| Tactile | [Find Info!](Tactile) |
+| Unprintable | [Find Info!](Unprintable) |
