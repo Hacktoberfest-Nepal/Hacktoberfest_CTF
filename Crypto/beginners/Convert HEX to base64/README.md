@@ -1,8 +1,0 @@
-# Convert HEX to base64
-
-### `6861636b746f626572666573745f6374667b63346e5f7930755f72333463685f746831735f73743461337d`
-
-<!-- Remove 68 -->
-
-> **Hints:**
->	- Find 1337 and replace it with 7337!
