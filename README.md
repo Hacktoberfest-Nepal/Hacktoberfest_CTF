@@ -29,4 +29,4 @@ This is a guide with the intention of taking you through the process of learning
 - Please do not leak flag/submit PRs till the above mentioned date.
 - To win, you'll have to make PRs at the end of the program.
 -  Winners will be announced at the end of the program.
--  Winner will be rewarded with **Jet Brains** and **Gitraken** Premium Key :tada: 
+-  Winner will be rewarded with **Jet Brains** and **GitKraken** Premium Key :tada: 
