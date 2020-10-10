@@ -8,7 +8,7 @@ Since the CTF is running right now, you're not supposed to submit any PRs relate
 CTF IS RUNNING!!
 ----
 
-> 🚨🚨🚨 **For submission of CTF challenges**: Please register and submit in [WILL ADD ONE SOON](https://hacktober.tk)
+> 🚨🚨🚨 **For submission of CTF challenges**: Please register and submit in [CTFD](https://hacktober.tk)
 
 ## Welcome
 
