@@ -19,7 +19,7 @@ This is a guide with the intention of taking you through the process of learning
 - Cryptography ( 5 )
 - Misc. ( 2 )
 - Reversing ( 4 )
-- Web ( 1 )
+- Web ( 2 )
 - OSINT ( 3 )
 
 ## TL;DR
