@@ -6,7 +6,7 @@ Just create a directory with the challenge category, create sub-directory with t
 
 The **`YourUsername.md`** file should follow the Markdown format as provided below:
 ```
-# Your Username
+# Your Username - Challenge Title
 
 ## Challenge Flag: hacktoberfest_ctf{FLAG}
 
@@ -15,7 +15,7 @@ The **`YourUsername.md`** file should follow the Markdown format as provided bel
 _Place your write-up here!_
 ```
 
-For example, for the "**Tactile**" challenge in Intermediate Cryptography, create "Crypto" directory, then create "intermediate" directory inside it, and then "Tactile" sub-directory inside it, and then include your write-up in **`YourUsername.md`** file.
+For example, for the "**Tactile**" challenge in Intermediate Cryptography, get inside the "Intermediate" directory of the "Crypto" directory, and then include your write-up in **`YourUsername.md`** file inside "Tactile" directory.
 At the end, the directory structure would look like:
 ```
 Writeups
@@ -23,7 +23,7 @@ Writeups
 |
 └───Crypto
     |
-    └───intermediate
+    └───Intermediate
         |
         └───Tactile
             |
