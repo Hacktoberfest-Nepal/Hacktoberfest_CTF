@@ -17,7 +17,7 @@ This is a guide with the intention of taking you through the process of learning
 ## Challenges Types
 
 - Cryptography ( 5 )
-- Misc. ( 2 )
+- Misc. ( 3 )
 - Reversing ( 4 )
 - Web ( 2 )
 - OSINT ( 3 )
