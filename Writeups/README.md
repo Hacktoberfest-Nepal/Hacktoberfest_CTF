@@ -20,6 +20,7 @@ At the end, the directory structure would look like:
 ```
 Writeups
 │   README.md
+│   SAMPLE.md
 |
 └───Crypto
     |
