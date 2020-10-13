@@ -6,7 +6,7 @@
 
 I noticed the n was smaller, went to factor-db and factorised it, determined p and q and created the following script to get the flag.
 
-`
+```
 from Crypto.Util.number import inverse
 import codecs
 
@@ -27,5 +27,5 @@ try:
 
 except:
   pass
-`
+```
 Got the flag appended manuallly ;p
