@@ -1,14 +1,8 @@
 # Hacktoberfest CTF
 
-# <u>Note: CTF IS RUNNING CURRENTLY. NEW PRs TO THIS REPO WILL LEAD TO A PERMANENT BAN.</u>
+# <u>Note: CTF IS RUNNING CURRENTLY. NEW PRs TO THIS REPO ARE WELCOME.</u>
 
-Since the CTF is running right now, you're not supposed to submit any PRs related to solves. You'll be asked for PRs later after the event is over. And, the quality PRs will get merged for sure. PRs will not be tolerated, nor the fork with solutions. Don't worry, fork it and just work with a local repo. please don't even push within your fork while the CTF is running(telling you again). And later, do send the PRs will go through all of them :smile:
-
-----
-CTF IS RUNNING!!
-----
-
-> 🚨🚨🚨 **For submission of CTF challenges**: Please register and submit in [CTFD](https://hacktober.tk)
+You are request to send PRs with the write-up to the challenges you had sovled, PRs are welcome!!
 
 ## Welcome
 
