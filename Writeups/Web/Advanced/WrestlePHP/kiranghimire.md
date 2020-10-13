@@ -6,7 +6,7 @@
 
 It was easy challenge.Just run the below code you will get the answer.
 
-You can get pdf from this site : [Click Here](https://shattered.io)
+You can get pdfs from this site : [Click Here](https://shattered.io)
 
 
 ```
