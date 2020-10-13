@@ -1,6 +1,6 @@
 # Kiran Ghimire-I_LOVE_SO_MANY_ARG
 
-## Challenge Flag: hacktoberfest_ctf{FLAG}
+## Challenge Flag: hacktoberfest_ctf{OH_YES_I_DID_IT}
 
 ## Write-up:
 
