@@ -6,7 +6,7 @@
 
 I stumbled in this chal for a long time.So basially as by chal you will move to author tweeter profile.From the tweet made by him would lead us to a site.
 Directly moving to a point,I used wayback url tool 'echo w38-ho0k.000webhostapp.com/ | waybackurls' . And I got some links.
-You could have also got it through arhive.org.
+You could  also get it through arhive.org.
 The intereting link was https://w38-ho0k.000webhostapp.com/flag.mp4.
 
 I downloaded the mp4 file. 
