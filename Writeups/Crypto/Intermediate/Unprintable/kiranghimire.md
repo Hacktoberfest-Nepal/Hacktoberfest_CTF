@@ -18,4 +18,4 @@ I pasted it in decode section but it didn't get decoded.
 
 The I pasted this in Carrier message and in Hidden Message whatever written in description.
 
-and hided it and finally pasted hidden message in decoding section.Then I clicked on show and got the flag.
+and hid it and finally pasted hidden message in decoding section.Then I clicked on show and got the flag.
