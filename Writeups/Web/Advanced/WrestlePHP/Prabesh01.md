@@ -3,7 +3,7 @@
 ## Challenge:
 
 <a href="https://hacktober.tk/challenges#WrestlePHP-24">
-<img align="center" alt="Challenge" src="challenge.png" /></a>
+<img align="center" alt="Challenge" src="Prabesh01/challenge.png" /></a>
 
 ## Challenge Flag: hacktoberfest_ctf{3qu4l17y_1s_n07_1d3nt17y_hehe_1337_0xcafebabe_cafedead}
 
@@ -20,7 +20,7 @@ The only thing we have is this: "7068702e30646179676f642e78797a". What could thi
 Looks like a url, right? Visitng the url takes us to the site stating "WrestlePHP - Can you beat PHP?". 
 
 <a href="https://php.0daygod.xyz/">
-<img alt="php.0daygod.xyz" src="0daygod.png" /></a>
+<img alt="php.0daygod.xyz" src="Prabesh01/0daygod.png" /></a>
 <br>
 Since I had already played such kinda ctf before, I had the rough idea of how to solve this one. Starting from the top of the code, the first if else codition is checking if the useragent is "Yes, I am a human.". If not, it would print "You are a bot, mate!" which can be seen at the bottom of the site. So I intercepted the requst to the site with burpsuite, changed the useragent value with "Yes, I am a human." and forwarded it. In the browser, at the bottom of the site, we can see that the text "You are a bot, mate!" has changed into "Nice! Now that we know you are a human, you can proceed further.". We also got the flag format of the challenge. Now that I know what's going on, I intercepted the request again and sent it to the repeater. 
 <br><br>
