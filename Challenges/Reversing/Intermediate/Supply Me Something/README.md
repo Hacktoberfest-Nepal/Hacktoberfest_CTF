@@ -16,3 +16,7 @@ Sorry, I am programmed to only argue with 1337s.
 ## Challenge Files
 
 - [supply](supply)
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Reversing/Intermediate/Supply%20Me%20Something)**

@@ -17,3 +17,7 @@ Download the binary, and have fun like a pro!!
 ## Challenge Files
 
 - [gdbfun](gdbfun)
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Reversing/Advanced/Government%20Development%20Bank%20says%20HAVE%20FUN!!)**

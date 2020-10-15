@@ -15,3 +15,7 @@ The invention of twine is at least as important as the development of stone tool
 ## Challenge Files
 
 - [Twine](Twine)
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Reversing/Beginners/Twine)**

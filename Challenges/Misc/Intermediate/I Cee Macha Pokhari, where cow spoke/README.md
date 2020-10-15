@@ -16,3 +16,7 @@ It seemed that a trader sold a cow in `127.0.0.1`, becuase it could speak. Pople
 ## Challenge Files
 
 - [I_can_hear_cows.pcapng](I_can_hear_cows.pcapng)
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Misc/Intermediate/I%20Cee%20Macha%20Pokhari%2C%20where%20cow%20spoke)**

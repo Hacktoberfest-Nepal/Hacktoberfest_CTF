@@ -18,6 +18,10 @@ This thing right over here shall come handy throughout your journey: https://cha
 
 - [Not-A-Script-Kiddie](Not-A-Script-Kiddie)
 
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Misc/Advanced/Not%20a%20Script%20Kiddie)**
+
 ## Further Notes
 
 *Since the URL to the challenge file given in the description is from a S3 bucket hosted on AWS, the bucket would be taken down after the CTF ends and after the participants complete their write-ups. Therefore, the challenge file has been provided in this repository for you to download and try out the challenge at any time.*

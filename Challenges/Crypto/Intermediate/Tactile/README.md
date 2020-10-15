@@ -21,3 +21,7 @@ Are you blind?? 🤨
 
 - [tactile.png](tactile.png)
 
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Crypto/Intermediate/Tactile)**
+

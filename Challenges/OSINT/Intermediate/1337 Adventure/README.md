@@ -16,3 +16,7 @@ Probably you will need to view the hint. If still no lead, another hint might he
 
 **hacktoberfest_ctf{Gondar, AM, ET}**
 
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/OSINT/Intermediate/1337%20Adventure)**
+

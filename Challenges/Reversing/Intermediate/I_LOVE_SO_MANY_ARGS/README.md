@@ -17,3 +17,7 @@ https://www.youtube.com/watch?v=9TgYy4H29Z4&t=14
 ## Challenge Files
 
 - [I_LOVE_SO_MANY_ARGS](I_LOVE_SO_MANY_ARGS)
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Reversing/Intermediate/I_LOVE_SO_MANY_ARGS)**

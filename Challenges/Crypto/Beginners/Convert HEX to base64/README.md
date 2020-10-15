@@ -14,3 +14,7 @@ Decode it if you can, only non-1337 can decode it!
 ## Challenge Flag
 
 **hacktoberfest_ctf{c4n_y0u_r34ch_th1s_st4g3}**
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/Crypto/Beginners/Convert%20HEX%20to%20base64)**

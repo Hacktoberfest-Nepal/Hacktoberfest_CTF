@@ -23,3 +23,7 @@ Challenge by [Captain Nick Lucifer](https://twitter.com/naryal2580/)
 ## Challenge Flag
 
 **hacktoberfest_ctf{rickrolled_for_the_flag}**
+
+## Challenge Write-ups
+
+**[Find Here!](https://github.com/Hacktoberfest-Nepal/Hacktoberfest_CTF/tree/master/Writeups/OSINT/Advanced/Tweet%20tweet)**
