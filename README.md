@@ -1,8 +1,8 @@
 # Hacktoberfest CTF
 
-# <u>Note: CTF IS RUNNING CURRENTLY. NEW PRs TO THIS REPO ARE WELCOME.</u>
+# The CTF has ended. You can submit your write-ups.
 
-You are request to send PRs with the write-up to the challenges you had sovled, PRs are welcome!!
+You are requested to send PRs with the write-ups to the challenges you had sovled; PRs are welcome!!
 
 ## Welcome
 
@@ -16,10 +16,15 @@ This is a guide with the intention of taking you through the process of learning
 - Web ( 2 )
 - OSINT ( 3 )
 
+## Winner Announcement
+
+![Winners for Sagarmatha Hacktoberfest CTF](assets/winners.png)
+
 ## TL;DR
 
-- CTF is running currently!!
-- Please do not leak bmit PRs, they're all welcome!!
-- To win, you'll have to make PRs at the end of the program.
--  Winners will be announced at the end of the program.
--  Winner will be rewarded with **Jet Brains** and **GitKraken** Premium Key :tada: 
+- CTF has now ended!!
+- ~~Please do not leak hints and flags in PRs~~, PRs are now all welcome!!
+- To win, you would have had to make PRs at the end of the program.
+- Winners have been announced.
+- Winners have be rewarded with **JetBrains** and **GitKraken** Premium Key :tada: 
+
